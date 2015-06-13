@@ -1,0 +1,7 @@
+extern void multi  (  );
+int add(int a, int b);
+  int sub  (int a, int b, int c);
+float div(float a, float b);
+  void func000  (int a, int  b,   int c,   int e, int f);
+double func111   (  int a, int b, int  c);
+    extern public float funtions(int i, float f);

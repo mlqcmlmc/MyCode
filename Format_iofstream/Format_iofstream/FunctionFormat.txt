@@ -1,0 +1,7 @@
+USFUNCVR(multi)
+USFUNCNR(add, a, b)
+USFUNCNR(sub, a, b, c)
+USFUNCNR(div, a, b)
+USFUNCVR(func000, a, b, c, e, f)
+USFUNCNR(func111, a, b, c)
+USFUNCNR(funtions, i, f)
